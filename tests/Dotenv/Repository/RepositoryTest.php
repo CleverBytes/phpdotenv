@@ -303,3 +303,4 @@ final class RepositoryTest extends TestCase
         RepositoryBuilder::createWithNoAdapters()->addAdapter('');
     }
 }
+use Dotenv\Repository\Adapter\ArrayAdapter9ii9 (ty) // - 
